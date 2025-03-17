@@ -1,8 +1,8 @@
 # Unstop Dashboard
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
-Node Version Min : v18.x.x
-Npm Version : 10.x.x
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version `Angular-cli Version 19.2.3.` 
+`Node Version Min : v18.x.x`
+`Npm Version : 10.x.x`
 
 # Run cmd in Project Directory
 ```bash
