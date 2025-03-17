@@ -1,0 +1,12 @@
+tr {
+  transition: all 0.3s ease-in-out;
+}
+
+mat-table {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+mat-table.loaded {
+  opacity: 1;
+}
